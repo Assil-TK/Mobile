@@ -47,6 +47,7 @@ const styles = StyleSheet.create({
   price: {
     fontSize: 14,
     color: 'gray',
+    includedd
   },
 });
 

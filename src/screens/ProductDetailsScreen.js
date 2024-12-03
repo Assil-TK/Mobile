@@ -53,11 +53,14 @@ const styles = StyleSheet.create({
   container: {
     marginTop: 50,
     flex: 1,
+    backgroundColor: 'white',
   },
   image: {
     width: 300,
     height: 300,
     margin: 10,
+    alignSelf: 'center',
+    
   },
   detailsContainer: {
     padding: 20,
@@ -65,15 +68,16 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 34,
     fontWeight: 'bold',
-    marginVertical: 10,
-    alignSelf: 'center',
+    margin: 10,
+    
+    
   },
   price: {
     fontWeight: '500',
     fontSize: 16,
     letterSpacing: 1.5,
-    marginVertical: 5,
-    alignSelf: 'center',
+    margin: 15,
+    
   },
   description: {
     marginVertical: 10,

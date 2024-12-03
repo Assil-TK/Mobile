@@ -46,9 +46,7 @@ const styles = StyleSheet.create({
   },
   price: {
     fontSize: 14,
-    color: 'gray',
-    includedd
-  },
+    color: 'gray', },
 });
 
 export default ProductScreen;
